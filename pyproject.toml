@@ -18,5 +18,8 @@ test = ["pytest", "pytest-asyncio", "respx"]
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
 
+[tool.hatch.build.targets.wheel]
+packages = ["qpay"]
+
 [project.urls]
-Homepage = "https://github.com/qpay/qpay-py"
+Homepage = "https://github.com/qpay-sdk/qpay-py"
