@@ -1,5 +1,6 @@
 # qpay-py
 
+[![CI](https://github.com/qpay-sdk/qpay-py/actions/workflows/ci.yml/badge.svg)](https://github.com/qpay-sdk/qpay-py/actions/workflows/ci.yml)
 [![PyPI version](https://img.shields.io/pypi/v/qpay-py.svg)](https://pypi.org/project/qpay-py/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
