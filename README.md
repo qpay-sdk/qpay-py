@@ -1,5 +1,8 @@
 # qpay-py
 
+[![PyPI version](https://img.shields.io/pypi/v/qpay-py.svg)](https://pypi.org/project/qpay-py/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Python SDK for the QPay V2 API. Provides both synchronous and asynchronous clients with automatic token management, typed request/response objects, and comprehensive error handling.
 
 ## Installation
